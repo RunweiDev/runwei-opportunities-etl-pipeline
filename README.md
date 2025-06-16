@@ -111,11 +111,4 @@ pip install -r requirements.txt
 
 Distributed under the MIT License. See `LICENSE` file for details.
 
----
-
-## 📞 Contact
-
-- **Yunpeng Wang**
-  - 📧 [yunpeng.wyp@gmail.com](mailto:yunpeng.wyp@gmail.com)
-  - 🌐 [LinkedIn](https://www.linkedin.com/in/yunpeng-wang-a33215247/)
 
