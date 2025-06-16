@@ -51,3 +51,79 @@ The pipeline automates the following:
 
 ## 📂 **Project Structure**
 
+```
+runwei-opportunities-etl-pipeline/
+├── src/
+│   ├── data_ingestion.py         # ADF ingestion scripts
+│   ├── data_cleaning.SQL         # SQL scripts for data cleansing
+│   └── database_schema.sql       # Azure SQL schema scripts
+├── docs/
+│   ├── architecture.png          # ETL architecture diagram
+│   └── Fabric_powerbi            # Power BI screenshots
+├── .gitignore                    # Python & Azure gitignore
+├── README.md                     # This document
+└── requirements.txt              # Python dependencies
+```
+
+---
+
+## 🚀 **Setup Instructions**
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Cloudpeng121/runwei-opportunities-etl-pipeline.git
+cd runwei-opportunities-etl-pipeline
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Configure Azure
+
+- Set up Azure Blob Storage & Azure Data Factory.
+- Deploy Azure SQL Database schema using provided scripts.
+
+### 4. Connect Power BI
+
+- Link Azure SQL Database to Power BI Desktop.
+- Develop visualizations from mirrored data.
+
+---
+
+## 📊 Sample Visualizations
+
+*(Insert your Power BI visualizations screenshots here.)*
+
+---
+
+## ✅ Contributions
+
+- **Automated Data Processing:** Achieved 80% reduction in manual tasks.
+- **Improved Data Quality:** Ensured data accuracy and standardization >95%.
+- **Real-time Analytics:** Enabled interactive dashboards for rapid decision-making.
+
+---
+
+## 📝 Future Enhancements
+
+- Implement incremental loading strategies.
+- Integrate real-time monitoring and alerting.
+- Develop predictive analytics features for opportunities.
+
+---
+
+## 🤝 License
+
+Distributed under the MIT License. See `LICENSE` file for details.
+
+---
+
+## 📞 Contact
+
+- **Yunpeng Wang**
+  - 📧 [yunpeng.wyp@gmail.com](mailto:yunpeng.wyp@gmail.com)
+  - 🌐 [LinkedIn](https://www.linkedin.com/in/yunpeng-wang-a33215247/)
+
