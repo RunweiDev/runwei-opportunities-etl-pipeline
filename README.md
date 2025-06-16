@@ -91,17 +91,11 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Sample Visualizations
-
-*(Insert your Power BI visualizations screenshots here.)*
-
----
-
 ## ✅ Contributions
 
-- **Automated Data Processing:** Achieved 80% reduction in manual tasks.
-- **Improved Data Quality:** Ensured data accuracy and standardization >95%.
-- **Real-time Analytics:** Enabled interactive dashboards for rapid decision-making.
+- Automated Data Processing
+- Improved Data Quality
+- Real-time Analytics
 
 ---
 
