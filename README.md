@@ -52,15 +52,15 @@ The pipeline automates the following:
 ```
 runwei-opportunities-etl-pipeline/
 ├── src/
-│   ├── data_ingestion.py         # ADF ingestion scripts
-│   ├── data_cleaning.SQL         # SQL scripts for data cleansing
-│   └── database_schema.sql       # Azure SQL schema scripts
+│   ├── data_extract_and_upload.py    # ADF ingestion scripts
+│   ├── data_cleaning.SQL             # SQL scripts for data cleansing
+│   └── database_schema.sql           # Azure SQL schema scripts
 ├── docs/
-│   ├── architecture.png          # ETL architecture diagram
-│   └── Fabric_powerbi            # Power BI screenshots
-├── .gitignore                    # Python & Azure gitignore
-├── README.md                     # This document
-└── requirements.txt              # Python dependencies
+│   ├── architecture.png              # ETL architecture diagram
+│   └── Fabric_powerbi                # Power BI screenshots
+├── .gitignore                        # Python & Azure gitignore
+├── README.md                         # This document
+└── requirements.txt                  # Python dependencies
 ```
 
 ---
