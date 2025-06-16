@@ -1,5 +1,3 @@
-# runwei-opportunities-etl-pipeline
-ETL pipeline from Azure Blob Storage to Azure SQL and mirrored to Power BI dashboards for real-time analytics of funding opportunities.
 # Runwei Opportunities ETL Pipeline 
 
 [![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4.svg?style=flat&logo=microsoftazure)](https://azure.microsoft.com/) 
