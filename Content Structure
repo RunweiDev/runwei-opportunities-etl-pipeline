@@ -1,0 +1,12 @@
+runwei-opportunities-etl-pipeline/
+├── src/
+│   ├── data_ingestion.py           # Azure Data Factory ingestion scripts
+│   ├── data_cleaning.py            # Data cleaning and transformation logic
+│   ├── sql/
+│   │   └── database_schema.sql     # Azure SQL schema creation scripts
+├── docs/
+│   ├── architecture.png            # Architecture diagram
+│   ├── powerbi_sample.png          # Power BI dashboard screenshots
+├── .gitignore                      # Standard Python gitignore
+├── README.md                       # Detailed project documentation
+└── requirements.txt                # Python dependencies (if applicable)
